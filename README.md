@@ -6,9 +6,9 @@ A 150 word description of the project idea and goals. What’s the motivation be
 
 ## Research Questions:
 
-How have Greta Tunberg and the Paris agreements changed the public view of global warming?
-What are the public resentments towards global warming and to what extent are they reflected in American newspapers?
-What consequences do these public resentments have on the speeches of important public figures?
+How have Greta Tunberg and the Paris agreements changed the public view of global warming?\\
+What are the public resentments towards global warming and to what extent are they reflected in American newspapers?\\
+What consequences do these public resentments have on the speeches of important public figures?\\
 How can we link the emergence of this awareness to the facts of global warming?
 
 
