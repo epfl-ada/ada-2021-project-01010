@@ -4,7 +4,7 @@
 
 A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
 
-Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of global warming more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate marches initiated by Swedish activist Greta Tunberg.
+Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate marches initiated by Swedish activist Greta Tunberg.
 
 The goal of our project is to understand the emergence of global warming awareness and to understand the main public feelings.
 
@@ -15,13 +15,13 @@ The final goal is to link the different important information found in the analy
 
 ## Research Questions:
 
-How have Greta Tunberg and the Paris agreements changed the public view of global warming?
+- How have Greta Tunberg and the Paris agreements changed the public view of global warming?
 
-What are the public resentments towards global warming and to what extent are they reflected in American newspapers?
+- What are the public resentments towards global warming and to what extent are they reflected in American newspapers?
 
-What consequences do these public resentments have on the speeches of important public figures?
+- What consequences do these public resentments have on the speeches of important public figures?
 
-How can we link the emergence of this awareness to the facts of global warming?
+- How can we link the emergence of this awareness to the facts of global warming?
 
 
 ## Proposed additional datasets (if any):
