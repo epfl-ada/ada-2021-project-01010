@@ -26,7 +26,7 @@ The final goal is to link the different important information found in the analy
 
 ## Proposed additional datasets (if any):
 
-List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
+To answer our questions and to accomplish a complete analysis of the subject, we will use in addition to the data set provided, a data set obtained using the google trends platform in order to count the number of searches made via google per year on the subject of climate change. We will also use a data set obtained via wikidata in order to verify that the quotes of important public figures are indeed affiliated with the right speaker. This will allow us to make the quotes in the main dataset more reliable in order to give the best possible analysis. 
 
 ## Methods
 
