@@ -16,9 +16,9 @@ The final goal is to link the different important pieces of information found in
 - How have Greta Thunberg and the Paris agreements changed the public view of global warming?
 
 - What are the public resentments towards global warming and to what extent are they reflected in American newspapers?
+- --qs
 
 - What consequences do these public resentments have on the speeches of important public figures?
-  -erz
 
 - How can we link the emergence of this awareness to the facts of global warming?
 
