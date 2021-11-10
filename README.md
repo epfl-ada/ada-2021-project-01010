@@ -33,6 +33,17 @@ To answer our questions, here is the methodology we will employ. First, we will 
 
 ## Proposed timeline
 
+11/19: Treatment of the impact of the Paris Agreement and Greta Thunberg on the increasing prominence of the topic of global warming in the news
+
+11/26: Analysis of the most important public figures on these topics and people's feelings about global warming
+
+12/03: Finalization of the representative diagrams and the links between these diagrams for the project report
+
+12/10: Final analysis between the rise of climate awareness and societal and environmental facts in society 
+
+12/17: Verification of the report as a whole: the clear answer to the questions, link to the subject, the link between the different parts, final analysis, and finalization of the report.
+
+
 ## Organization within the team:
 
 A list of internal milestones up until project Milestone 3.
