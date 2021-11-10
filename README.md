@@ -4,18 +4,18 @@
 
 A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
 
-Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate marches initiated by Swedish activist Greta Tunberg.
+Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate strikes initiated by Swedish activist Greta Thunberg.
 
-The goal of our project is to understand the emergence of global warming awareness and to understand the main public feelings.
+The goal of our project is to understand the emergence of climate change awareness and to understand the main public feelings.
 
-To do so, we will analyze our data sets to understand the evolution of the share of speeches talking about global warming, people's feelings, and the key events related to this phenomenon.
+To do so, we will analyze our dataset to understand the evolution of the share of speeches talking about climate change, public's feelings, and the key events related to this phenomenon.
 
-The final goal is to link the different important information found in the analysis of our datasets to understand the importance of this topic on the public scene today compared to 2015.
+The final goal is to link the different important informations found in the analysis of our dataset to understand the importance of this topic on the public scene today compared to 2015.
 
 
 ## Research Questions:
 
-- How have Greta Tunberg and the Paris agreements changed the public view of global warming?
+- How have Greta Thunberg and the Paris agreements changed the public view of global warming?
 
 - What are the public resentments towards global warming and to what extent are they reflected in American newspapers?
 
