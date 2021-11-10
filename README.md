@@ -39,7 +39,7 @@ To answer our questions, here is the methodology we will employ. First, we will 
 
 12/03: Finalization of the representative diagrams and the links between these diagrams for the project report
 
-12/10: Final analysis between the rise of climate awareness and societal and environmental facts in society 
+12/10: Final analysis between the rise of climate awareness and societal and environmental real facts about global warming 
 
 12/17: Verification of the report as a whole: the clear answer to the questions, link to the subject, the link between the different parts, final analysis, and finalization of the report.
 
