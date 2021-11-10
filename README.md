@@ -18,7 +18,7 @@ The final goal is to link the different important pieces of information found in
 - What are the public resentments towards global warming and to what extent are they reflected in American newspapers?
 
 - What consequences do these public resentments have on the speeches of important public figures?
-  .erz
+  -erz
 
 - How can we link the emergence of this awareness to the facts of global warming?
 
