@@ -5,27 +5,18 @@
 Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate strikes initiated by Swedish activist Greta Thunberg. The goal of our project is to understand the emergence of climate change awareness through the quotes in the newspapers and to understand the main public feelings about it. To do so, we will analyze our dataset to understand the evolution of the share of speeches talking about climate change,  the key events related to this phenomenon and the public's feelings. The final goal is to link the different important pieces of information found in the analysis of our dataset to understand the importance of this topic on the public scene today compared to 2015.
 
 
-
 ## Research Questions:
 
--How has climate change gained newspapers’ interest through the years ? 
-
--Do the newspapers reflect the public interests regarding climate change ? 
-
--Which figures are the most important about climate change ? 
-
--What are the emotions conveyed by the quotes about climate change ?
-
--What does it tell us about the newspapers’ point of view on climate change ? 
-
-
+- How has climate change gained newspapers’ interest through the years ? 
+- Do the newspapers reflect the public interests regarding climate change ? 
+- Which figures are the most important about climate change ? 
+- What are the emotions conveyed by the quotes about climate change ?
+- What does it tell us about the newspapers’ point of view on climate change ? 
 
 ## Proposed additional datasets (if any):
 
--wiki data 
-
--google trends
-
+- wiki data
+- google trends api
 
 ## Methods
 
@@ -57,55 +48,37 @@ These analyses will allow us to show the emergence of ecological awareness in th
 
 Marguerite:
 
--Data processing and filtering
-
--Analysis related to the increase of the subject's presence in the newspapers 
-
--Introduction of topic and questions  
-
--Checking the links between diagrams and analyses 
+- Data processing and filtering
+- Analysis related to the increase of the subject's presence in the newspapers 
+- Introduction of topic and questions  
+- Checking the links between diagrams and analyses 
 
 Cécile:
 
--Sentimental analysis 
-
--Analysis of the most important people about the climate 
-
--Analysis of views 
-
--Checking the links between diagrams and analyses 
+- Sentimental analysis 
+- Analysis of the most important people about the climate 
+- Analysis of views 
+- Checking the links between diagrams and analyses 
 
 Théophile:
 
--Checking and improving the readability of the diagrams
-
--Analysis of the most important people about the climate 
-
--Analysis of views 
-
--Introduction of topic and questions 
+- Checking and improving the readability of the diagrams
+- Analysis of the most important people about the climate 
+- Analysis of views 
+- Introduction of topic and questions 
 
 Bastien:
 
--Data processing and filtering 
-
--Analysis related to the increase of the subject's presence in the newspapers 
-
--Laying out the report 
-
--Checking and improving the readability of the diagrams 
+- Data processing and filtering 
+- Analysis related to the increase of the subject's presence in the newspapers 
+- Laying out the report 
+- Checking and improving the readability of the diagrams 
 
 Everyone:
 
--Conclusion on the topic 
-
--Cleaning up the code
-
--Finalizing the report 
-
-
-
-
+- Conclusion on the topic 
+- Cleaning up the code
+- Finalizing the report 
 
 ## Questions for TAs (optional):
 
