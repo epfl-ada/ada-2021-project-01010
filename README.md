@@ -2,45 +2,51 @@
 
 ## Abstract:
 
-A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
-
-Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate strikes initiated by Swedish activist Greta Thunberg.
-The goal of our project is to understand the emergence of climate change awareness and to understand the main public feelings.
-To do so, we will analyze our dataset to understand the evolution of the share of speeches talking about climate change, the public's feelings, and the key events related to this phenomenon.
-The final goal is to link the different important pieces of information found in the analysis of our dataset to understand the importance of this topic on the public scene today compared to 2015.
+Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate strikes initiated by Swedish activist Greta Thunberg. The goal of our project is to understand the emergence of climate change awareness through the quotes in the newspapers and to understand the main public feelings about it. To do so, we will analyze our dataset to understand the evolution of the share of speeches talking about climate change,  the key events related to this phenomenon and the public's feelings. The final goal is to link the different important pieces of information found in the analysis of our dataset to understand the importance of this topic on the public scene today compared to 2015.
 
 
 
 ## Research Questions:
 
-- How have Greta Thunberg and the Paris agreements changed the public view of global warming?
+-How has climate change gained newspapers’ interest through the years ? 
 
-- What are the public resentments towards global warming and to what extent are they reflected in American newspapers?
+-Do the newspapers reflect the public interests regarding climate change ? 
 
-- What consequences do these public resentments have on the speeches of important public figures?
+-Which figures are the most important about climate change ? 
 
-- How can we link the emergence of this awareness to the facts of global warming?
+-What are the emotions conveyed by the quotes about climate change ?
+
+-What does it tell us about the newspapers’ point of view on climate change ? 
+
 
 
 ## Proposed additional datasets (if any):
 
-To answer our questions and to accomplish a complete analysis of the subject, we will use in addition to the data set provided, a data set obtained using the google trends platform in order to count the number of searches made via google per year on the subject of climate change. We will also use a data set obtained via wikidata in order to verify that the quotes of important public figures are indeed affiliated with the right speaker. This will allow us to make the quotes in the main dataset more reliable in order to give the best possible analysis. 
+-wiki data 
+
+-google trends
+
 
 ## Methods
 
-To answer our questions, here is the methodology we will employ. First, we will process the data set of newspaper quotations to create a sub-dataset with only quotes that address the topic of climate change. We will then verify the public figures who authored those quotes using the wiki data set to make our analysis more reliable. With this exploitable data, we will show the impact of Greta Thunberg and the Paris agreements on general environmental awareness. Using the data set obtained via google trends, we will quantify the influence of the opinions on climate change relayed by newspapers by processing the evolution of the number of google searches on the subject. Then, based on sentiment analysis of our main dataset, we will be able to extract the feelings of the main public figures on the subject. To conclude, we will link all of our previous analyses with the major events concerning climate change such as climate marches or even natural disasters related to climate change. This will allow us to show the emergence of ecological awareness and its importance.
+We will first process the dataset of newspaper quotes to create a sub-dataset with only quotes that address the topic of climate change. 
+
+We intend to use google trends dataset to see if the quotes in the newspapers reflect well what the public interests are. The library pytrends will be used to this end and will let us extract the number of occurrences a word was searched in google and where these words were searched for example. 
+
+The dataset wiki data will be used to have information about the speakers, their notoriety or their political orientation. This will allow us to see which type of speaker the newspapers most cite. 
+
+We will use a sentiment analysis to examine the emotions conveyed by the quotes. The library VaderSentiment will be used for this analysis. This library can help us extract whether the quotes about climate change are negative or positive. 
+
+These analyses will allow us to show the emergence of ecological awareness in the newspapers and in the public, its importance and the vision the newspapers and the public have on climate change.
+
 
 ## Proposed timeline
 
-11/19: Treatment of the impact of the Paris Agreement and Greta Thunberg on the increasing prominence of the topic of global warming in the news
-
-11/26: Analysis of the most important public figures on these topics and people's feelings about global warming
-
-12/03: Finalization of the representative diagrams and the links between these diagrams for the project report
-
-12/10: Final analysis between the rise of climate awareness and societal and environmental real facts about global warming 
-
-12/17: Verification of the report as a whole: the clear answer to the questions, link to the subject, the link between the different parts, final analysis, and finalization of the report.
+19.11 : treatments of the data (enriching, filtering, exploring the datasets)
+26.11 : analyzing the data (plotting graphs, do some calculations to support the analysis)
+03.12 : further analysis and visualization of the data (starting the website that will tell our story)
+10.12 : visualization of the data 
+17.12 : finalization of the report 
 
 
 ## Organization within the team:
