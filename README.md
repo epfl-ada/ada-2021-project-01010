@@ -1,11 +1,11 @@
-# The emergence of climate awareness.
+# The emergence of climate awareness
 
 ## Abstract:
 
 Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate strikes initiated by Swedish activist Greta Thunberg. The goal of our project is to understand the emergence of climate change awareness through the quotes in the newspapers and to understand the main public feelings about it. To do so, we will analyze our dataset to understand the evolution of the share of speeches talking about climate change,  the key events related to this phenomenon and the public's feelings. The final goal is to link the different important pieces of information found in the analysis of our dataset to understand the importance of this topic on the public scene today compared to 2015.
 
 
-## Research Questions:
+## Research questions:
 
 - How has climate change gained newspapers’ interest through the years ? 
 - Do the newspapers reflect the public interests regarding climate change ? 
