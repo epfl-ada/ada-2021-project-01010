@@ -55,7 +55,39 @@ These analyses will allow us to show the emergence of ecological awareness in th
 
 ## Organization within the team:
 
-A list of internal milestones up until project Milestone 3.
+Marguerite:
+
+-Data processing and filtering
+
+-Analysis related to the increase of the subject's presence in the newspapers 
+
+-Introduction of topic and questions  
+
+-Checking the links between diagrams and analyses 
+
+Cécile:
+
+-Sentimental analysis 
+
+-Analysis of the most important people about the climate 
+
+-Analysis of views 
+
+-Checking the links between diagrams and analyses 
+
+Théophile:
+
+-Checking and improving the readability of the diagrams
+
+-Analysis of the most important people about the climate 
+
+-Analysis of views 
+
+-Introduction of topic and questions 
+
+Bastien
+
+
 
 ## Questions for TAs (optional):
 
