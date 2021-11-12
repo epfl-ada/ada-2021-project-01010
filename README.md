@@ -85,7 +85,25 @@ Théophile:
 
 -Introduction of topic and questions 
 
-Bastien
+Bastien:
+
+-Data processing and filtering 
+
+-Analysis related to the increase of the subject's presence in the newspapers 
+
+-Laying out the report 
+
+-Checking and improving the readability of the diagrams 
+
+Everyone:
+
+-Conclusion on the topic 
+
+-Cleaning up the code
+
+-Finalizing the report 
+
+
 
 
 
