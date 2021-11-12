@@ -43,9 +43,13 @@ These analyses will allow us to show the emergence of ecological awareness in th
 ## Proposed timeline
 
 19.11 : treatments of the data (enriching, filtering, exploring the datasets)
+
 26.11 : analyzing the data (plotting graphs, do some calculations to support the analysis)
+
 03.12 : further analysis and visualization of the data (starting the website that will tell our story)
+
 10.12 : visualization of the data 
+
 17.12 : finalization of the report 
 
 
