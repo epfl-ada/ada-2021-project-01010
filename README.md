@@ -76,7 +76,3 @@ Everyone:
 - Conclusion on the topic
 - Cleaning up the code
 - Finalizing the report
-
-## Questions for TAs (optional):
-
-Add here any questions you have for us related to the proposed project.
