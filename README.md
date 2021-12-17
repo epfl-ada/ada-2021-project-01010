@@ -73,3 +73,12 @@ Everyone:
 - Conclusion on the topic
 - Cleaning up the code
 - Finalizing the report
+
+## Repository structure
+
+In this structure you will find multiple jupyter notebooks with the following role :
+
+- `notebook_initial_analysis.ipynb` which contains all our initial analysis with the data treatment with filtering
+- `notebook_newspaper_and_political_analysis.ipynb` which contains the newspaper analysis of political orientation of newspaper and authors
+- `notebook_topic_detection_analysis.ipynb` which contains analysis linked with topics and the generation of word clouds for the timeline
+- `notebook_term_frequency_analysis.ipynb` which contains analysis linked with term frequency analysis
