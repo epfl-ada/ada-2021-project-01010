@@ -4,7 +4,9 @@ Have a look at our data story :warning::warning:[Let’s rewind climate history]
 
 ## Abstract:
 
-Since 2015 and the Paris agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. The number of newspaper articles addressing these topics has been steadily increasing over the last 5 years leading to strong political movements like the climate strikes initiated by Swedish activist Greta Thunberg. The goal of our project is to understand the emergence of climate change awareness through the quotes in the newspapers and to understand the main newspapers feelings about it. To do so, we will analyze our dataset to understand the evolution of the share of speeches talking about climate change, the key events related to this phenomenon and the public's feelings. The final goal is to link the different important pieces of information found in the analysis of our dataset to understand the importance of this topic on the public scene today compared to 2015.
+Since 2015 and the Paris Agreements following the COP21, states and citizens are taking the issue of climate change more and more seriously. This has led to strong political movements like the climate strikes initiated by Swedish activist Greta Thunberg. The goal of our project is to rewind the story of climate change through the quotes of multiple newspapers.
+
+We will first be interested in identifying what the quotes reveal about the important events related to climate change. Then we will dig into the actors behind the quotes. We will ask ourseleves if the important newspapers talking about climate change are mostly for a sustainable change or are rather climate sceptics. A focus will be made also on the most important political opinions of the speakers in the quotes. Finally, these analyses will allow us to have a global overview of how and about what Quotebank quotes talk about regarding climate change.
 
 ## Research questions:
 
