@@ -80,8 +80,8 @@ Everyone:
 
 In this structure you will find multiple jupyter notebooks with the following role :
 
-- `notebook_initial_analysis.ipynb` which contains all our initial analysis with the data treatment with filtering
-- `notebook_newspaper_and_political_analysis.ipynb` which contains the newspaper analysis of political orientation of newspaper and authors
-- `notebook_topic_detection_analysis.ipynb` which contains an analysis linked with topics and the generation of word clouds for the timeline
-- `notebook_term_frequency_analysis.ipynb` which contains an analysis linked with term frequency analysis
-- `notebook_invalid_quotes_analysis.ipynb` which contains an analysis of the `invalid` quotes we identified
+- `notebook_initial_analysis.ipynb` **Part 0** - which contains all our initial analysis with the data treatment with filtering
+- `notebook_newspaper_and_political_analysis.ipynb` **Part 1** - which contains the newspaper analysis of political orientation of newspaper and authors
+- `notebook_topic_detection_analysis.ipynb` **Part 2** - which contains an analysis linked with topics and the generation of word clouds for the timeline
+- `notebook_term_frequency_analysis.ipynb` **Part 3** - which contains an analysis linked with term frequency analysis
+- `notebook_invalid_quotes_analysis.ipynb` **Part Bonus** - which contains an analysis of the `invalid` quotes we identified
