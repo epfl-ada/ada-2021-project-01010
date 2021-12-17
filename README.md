@@ -1,6 +1,6 @@
 # The emergence of climate awareness
 
-Have a look at our data story --> :warning::warning:[Let’s rewind climate history](https://ph0tonic.github.io/ada2021/):warning::warning:
+Have a look at our data story :warning::warning:[Let’s rewind climate history](https://ph0tonic.github.io/ada2021/):warning::warning:
 
 ## Abstract:
 
