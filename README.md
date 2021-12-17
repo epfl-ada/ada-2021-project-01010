@@ -80,5 +80,6 @@ In this structure you will find multiple jupyter notebooks with the following ro
 
 - `notebook_initial_analysis.ipynb` which contains all our initial analysis with the data treatment with filtering
 - `notebook_newspaper_and_political_analysis.ipynb` which contains the newspaper analysis of political orientation of newspaper and authors
-- `notebook_topic_detection_analysis.ipynb` which contains analysis linked with topics and the generation of word clouds for the timeline
-- `notebook_term_frequency_analysis.ipynb` which contains analysis linked with term frequency analysis
+- `notebook_topic_detection_analysis.ipynb` which contains an analysis linked with topics and the generation of word clouds for the timeline
+- `notebook_term_frequency_analysis.ipynb` which contains an analysis linked with term frequency analysis
+- `notebook_invalid_quotes_analysis.ipynb` which contains an analysis of the `invalid` quotes we identified
