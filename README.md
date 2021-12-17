@@ -42,34 +42,29 @@ These analyses will allow us to show the emergence of ecological awareness in th
 17.12 : finalization of the report
 
 ## Organization within the team:
-
 Marguerite:
 
 - Data processing and filtering
-- Topics analysis
-- Introduction of topic and questions
-- Checking the links between diagrams and analyses
+- Topic detection analysis
+- Data story writing
 
 Cécile:
 
-- Sentimental analysis
-- Analysis of the most important people about the climate
-- Checking the links between diagrams and analyses
-- Datastory writing
+- Sentiment analysis
+- TF-IDF Analysis of the most important words in the quotes
+- Data story writing
 
 Théophile:
 
-- Checking and improving the readability of the diagrams
 - Political analysis of newspapers
-- Introduction of topic and questions
-- Datastory writing
+- Introduction and questions
+- Data story writing
 
 Bastien:
 
 - Data processing and filtering
-- Political analysis of authors
-- Graph creation of political parties of authors
-- Datastory implementation
+- Political analysis of speakers
+- Data story’s website implementation 
 
 Everyone:
 
